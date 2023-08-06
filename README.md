@@ -9,13 +9,13 @@ Table of Contents
 Project Overview, Dataset, Dependencies, Installation, Usage, Data Preprocessing, Exploratory Data Analysis, Text Processing, Model Development, Evaluation, Results, Contributing
 
 Project Overview
-In this project, we utilize NLP techniques to analyze hotel reviews and provide actionable advice to hotels and 
-companies. By leveraging the power of machine learning and text analysis, we aim to extract key insights from 
+In this project, I utilized NLP techniques to analyze hotel reviews and provide actionable advice to hotels and 
+companies. By leveraging the power of machine learning and text analysis, I extracted key insights from 
 customer feedback and identify patterns and trends that can help improve customer satisfaction and service quality.
 
 Dataset
 The dataset used for this project consists of hotel reviews, including customer feedback, ratings, and other relevant 
-attributes. The dataset is included in this repository labeled as "hotel_reviews.csv
+attributes. The dataset is included in this repository labeled as "hotel_reviews.csv" and "hotel_reviews_June19.csv"
 
 Dependencies
 To run this project locally, the following dependencies are required:
