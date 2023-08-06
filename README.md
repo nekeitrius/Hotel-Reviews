@@ -15,7 +15,7 @@ customer feedback and identify patterns and trends that can help improve custome
 
 Dataset
 The dataset used for this project consists of hotel reviews, including customer feedback, ratings, and other relevant 
-attributes. The dataset is included in this repository labeled as "hotel_reviews.csv" and "hotel_reviews_June19.csv"
+attributes. The dataset is included in this repository labeled as "hotel_reviews.zip" which includes the datasets "hotel_reviews.csv" and "hotel_reviews_June19.csv"
 
 Dependencies
 To run this project locally, the following dependencies are required:
